@@ -1,12 +1,12 @@
 # Coding Temple Walkthrough -- Miguel Grinberg's React Mega Tutorial
 
 ## Starting up
-Fork and clone this repo
+Fork and clone this repo\
 Teminal/CMD: `cd CT-React-Mega-Tutorial` + `npm install`
 
 ## Available Scripts
 
-In the project directory,all you need to know for now is... you can run:
+In the project directory, all you need to know for now is... you can run:
 
 ### `npm start`
 
