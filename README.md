@@ -1,8 +1,8 @@
 # Coding Temple Walkthrough -- Miguel Grinberg's React Mega Tutorial
 
-Most of this code is sourced from [React Mega Tutorial](https://blog.miguelgrinberg.com/post/introducing-the-react-mega-tutorial){:target="_blank"}
+Most of this code is sourced from [React Mega Tutorial](https://blog.miguelgrinberg.com/post/introducing-the-react-mega-tutorial)
 
-Buy the Miguel Grinberg's book [here](https://www.amazon.com/React-Mega-Tutorial-development-step-step/dp/B09Y96B9Q1){:target="_blank"}.
+Buy the Miguel Grinberg's book [here](https://www.amazon.com/React-Mega-Tutorial-development-step-step/dp/B09Y96B9Q1).
 ## Starting up
 Fork and clone this repo\
 Teminal/CMD: `cd CT-React-Mega-Tutorial` + `npm install`
