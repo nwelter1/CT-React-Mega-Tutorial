@@ -1,24 +1,27 @@
-import logo from './logo.svg';
-import './App.css';
+import { Link } from "react-router-dom";
+import { Container } from "react-bootstrap";
+import Header from "./components/Header";
+import SideBar from "./components/SideBar";
+import Stack from "react-bootstrap/Stack";
+import Posts from "./components/Posts";
 
 function App() {
+  
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Container fluid className="App" id="App">
+      <Header />
+      <Stack direction="horizontal">
+          <SideBar />
+          <Container>
+        
+            <Posts />
+          </Container>
+    </Stack>
+        
+      
+    </Container>
+    
+    
   );
 }
 
