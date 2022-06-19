@@ -1,5 +1,8 @@
 # Coding Temple Walkthrough -- Miguel Grinberg's React Mega Tutorial
 
+Most Code here sourced from [React Mega Tutorial](https://blog.miguelgrinberg.com/post/introducing-the-react-mega-tutorial)/
+
+Buy the book [here](https://www.amazon.com/React-Mega-Tutorial-development-step-step/dp/B09Y96B9Q1)/
 ## Starting up
 Fork and clone this repo\
 Teminal/CMD: `cd CT-React-Mega-Tutorial` + `npm install`
@@ -14,5 +17,5 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
+You may also see any lint errors in the console.\
 
