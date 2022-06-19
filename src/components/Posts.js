@@ -17,7 +17,7 @@ const Posts = () => {
             <>
                 <h1>Here are some blog posts:</h1>
                     {posts.length == 0 ?
-                    <p>NO shit going on!</p>
+                    <p>Fake API call failed! Impossible!</p>
                     :
                     posts.map(post => {
                     return (
